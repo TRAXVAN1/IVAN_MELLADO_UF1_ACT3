@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IVAN_MELLADO_UF1_ACT6</string>
+    <string name="actName">ACT6 TextEdit</string>
+    <string name="showToast">Mostrar el Toast</string>
+    <string name="textHint">Escribe Aqui Tu Toast</string>
+</resources>
